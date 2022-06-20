@@ -1,0 +1,28 @@
+tbody{
+    padding: 200px;
+}
+tr, td{
+    border: 1px solid black;
+}
+td{
+    width: 30px;
+    height: 30px;
+    border: 1px solid darkgray;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+
+}
+.blanc{
+    background-color: white;
+}
+.marron{
+    background-color: brown ;
+}
+.rouge{
+    background-color: red;
+}
+.rouge foncé{
+    background-color: darkred;
+}
